@@ -6,7 +6,7 @@ numero = 24 + 76
 print(numero)
 
 #aunque hay una manera mas eficiente, utilizando la variable junto a caracteres especificos
-#pueden simplificar muchisimo la suma 
+#pueden simplificar muchisimo la suma
 
 numero1 = 24
 numero1 += 76
@@ -17,3 +17,4 @@ print(numero1)
 # -= : significa resta
 # *= : significa multiplicacion
 # /= : significa division
+# lo que hace estas convinaciones de carateres es sumar/restar/multi/div lo que la vareable ya tiene dentro por un nuevo valor ingresante 
